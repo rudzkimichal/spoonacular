@@ -1,0 +1,26 @@
+{
+  "name": "spoonacular",
+  "version": "1.0.0",
+  "description": "Next.js app for querying Spoonacular API",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudzkimichal/spoonacular.git"
+  },
+  "author": "Michal Rudzki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudzkimichal/spoonacular/issues"
+  },
+  "homepage": "https://github.com/rudzkimichal/spoonacular#readme",
+  "dependencies": {
+    "next": "10.0.8",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
