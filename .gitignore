@@ -1,5 +1,6 @@
 
 .DS_Store
+client/.DS_Store
 next.config.js
 
 
@@ -7,22 +8,22 @@ next.config.js
 
 # dependencies
 client/node_modules
-/.pnp
-.pnp.js
+client/.pnp
+client/.pnp.js
 
 # testing
-/coverage
+client/coverage
 
 # next.js
-/.next/
-/out/
+client/.next/
+client/out/
 
 # production
-/build
+client/build
 
 # misc
-.DS_Store
-*.pem
+client/.DS_Store
+client/*.pem
 
 # debug
 npm-debug.log*
